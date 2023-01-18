@@ -1,0 +1,1 @@
+# ex_1_shop_first_steps_in_OOP_exercise
